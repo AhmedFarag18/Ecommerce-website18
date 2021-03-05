@@ -644,11 +644,16 @@ header .header-2.header-active {
 
 
 /* --======== start footer=================== */
+.footer{   
+	background: #000;
+}
+
 
 .footer .box-container {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+		background: #111;
 }
 
 .footer .box-container .box {
